@@ -386,7 +386,7 @@
         )
       )
     )
-    (symbol "Transistor_BJT:2N3905" (pin_numbers hide) (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+    (symbol "Transistor_BJT:2N3905" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
       (property "Reference" "Q" (at 5.08 1.905 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
