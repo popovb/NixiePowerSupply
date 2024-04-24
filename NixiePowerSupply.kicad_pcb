@@ -5,6 +5,10 @@
   )
 
   (paper "A4" portrait)
+  (title_block
+    (date "2024-04-24")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
